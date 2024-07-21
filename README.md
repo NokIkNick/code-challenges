@@ -1,7 +1,7 @@
 #Coding Challenges
 
 ##Numbers
-- [ ] Add/Subtract/Multiply/DivideFractions
+- [X] Add/Subtract/Multiply/DivideFractions
 - [ ] Alarm Clock
 - [ ] Binary to Decimal and Back Converter
 - [ ] Calculator
